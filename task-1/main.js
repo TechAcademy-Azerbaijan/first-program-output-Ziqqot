@@ -1,1 +1,1 @@
-console.log('Hello, Tech Academy!');
+console.log(`Hello, Tech Academy!`);
